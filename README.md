@@ -1,6 +1,3 @@
-******* could you send me your skype id?
-It is difficult to discuss about your project in freelancer's chat. **********
-
 
 # Celo Server
 ## How To Run
