@@ -1,4 +1,4 @@
-My skype is live:.cid.16ce917fd031e5db
+
 please, add me to your skype list
 
 
