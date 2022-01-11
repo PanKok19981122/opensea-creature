@@ -1,7 +1,3 @@
-live:.cid.16ce917fd031e5db
-please, add me to your skype list
-
-
 # Celo Server
 ## How To Run
 1. Start by installing all dependencies by running `npm install`
